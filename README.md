@@ -317,9 +317,9 @@ if __name__ == "__main__":
 ### Para el código se deben hacer las siguiente aclaraciones: 
 
 * Las claves del diccionarios no pueden ser listas ni diccionarios. Esto porque los mencionados son tipos de
-datos iterables
+datos iterables.
 
-* Las tuplas en el código solo pueden tener elementos tipo str dentro de ellas
+* Las tuplas en el código solo pueden tener elementos tipo str dentro de ellas.
 
 ```python
 lista_claves : list
